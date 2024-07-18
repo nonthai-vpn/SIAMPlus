@@ -1,4 +1,4 @@
-# SIAMPLUS
+# SIAMPLUS SCRIPT AUTO
 
 # เมนูติดตั้ง
 
@@ -10,6 +10,6 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO-raw.githubusercontent.com/nonthai-vpn/SIAMPlus/SSHPLUS/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SIAMPlus/main/ssh-plus)
 
 
