@@ -17,7 +17,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SIAM
 ✅ XRAY VLESS TCP XTLS (443) NON-TLS (80/8080/8880)
 ✅ XRAY TROJAN TCP (443) NON-TLS (80/8080/8880)
 
-# OPERATING SYSTEMS #
+📖  OPERATING SYSTEMS 
 Debian 12 & Ubuntu 23.04 LTS Support!!!
 • Debian 12
 • Debian 11
