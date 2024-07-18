@@ -1,4 +1,4 @@
-# SIAMPLUS SCRIPT AUTO
+# SIAMPLUS AUTO
 
 
 📖  Installation
