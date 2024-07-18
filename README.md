@@ -1,9 +1,7 @@
-# SEJA BEM VINDO(A)! 🤝
-
 # SIAMPLUS
 
 # เมนูติดตั้ง
-# 
+
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
