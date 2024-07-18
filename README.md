@@ -1,12 +1,13 @@
 # SIAMPLUS SCRIPT AUTO
 
 
-# Installation
+📖  Installation
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SIAMPlus/main/ssh-plus)
 
+```
 
-# SERVICE AND PORT #
+📖  SERVICE AND PORT 
 
 ✅ NGINX REVERSE PROXY TLS (443) & NON-TLS (80/8080)
 ✅ SSH WEBSOCKET TLS (443) & NON-TLS (80/8080)
