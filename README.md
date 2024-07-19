@@ -55,6 +55,6 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHP
 
 ✅ XRAY TROJAN TCP (443) NON-TLS (80/8080/8880)
 
-![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 
