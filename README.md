@@ -3,7 +3,7 @@
 
 📖  Installation
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SIAMPlus/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHPLUS/main/ssh-plus)
 
 ```
 
