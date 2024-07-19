@@ -37,23 +37,39 @@ sudo -i
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHPLUS/main/ssh-plus)
 ```
 
-📖  SERVICE AND PORT 
+# PORT SSH
+- SSH OpenSSH      : **22,99,169,2269,3369**
+- SSH Dropbear     : **109,143,300,1153**
+- SSH DIRECT       : **8000**
+- SSH WS HTTP      : **80,8880,8000**
+- SSH WS SSL/TLS   : **443,8000**
+- SSLH             : **8000**
+- STUNNEL5         : **8000**
+- SlowDNS          : **5300,2269,3369**
+- BadVPN/UDPGW      : **7100,7200,7300**
+- Nginx             : **80,443,89**
 
-✅ NGINX REVERSE PROXY TLS (443) & NON-TLS (80/8080)
+# PORT XRAY TLS
+- Nginx            : **80,443,89**
+- TROJAN WS        : **443**
+- TROJAN GRPC      : **443**
+- SHADOWSOCKS WS   : **443**
+- SHADOWSOCKS GRPC : **443**
+- VMESS WS         : **443**
+- VMESS GRPC       : **443**
+- VLESS WS         : **443**
+- VLESS GRPC       : **443**
 
-✅ SSH WEBSOCKET TLS (443) & NON-TLS (80/8080)
-
-✅ SSH DROPBEAR (109,143)
-
-✅ OPENSSH (22,143)
-
-✅ XRAY VLESS WEBSOCKET TLS (443) & NON-TLS (80/8080/8880)
-
-✅ XRAY TROJAN WEBSOCKET TLS (443) & NON-TLS (80/8080/8880)
-
-✅ XRAY VLESS TCP XTLS (443) NON-TLS (80/8080/8880)
-
-✅ XRAY TROJAN TCP (443) NON-TLS (80/8080/8880)
+# PORT XRAY HTTP
+- Nginx             : **80,443,89**
+- TROJAN WS        : **80**
+- TROJAN GRPC      : **80**
+- SHADOWSOCKS WS   : **80**
+- SHADOWSOCKS GRPC : **80**
+- VMESS WS         : **80**
+- VMESS GRPC       : **80**
+- VLESS WS         : **80**
+- VLESS GRPC       : **80**
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
