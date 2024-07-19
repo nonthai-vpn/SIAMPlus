@@ -15,9 +15,11 @@
 # SCRIPT AUTO VPS
 
 📖 Installation
-```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHPLUS/main/ssh-plus)
 
+<p align="d"> <img src="https://img.shields.io/badge/Version-8.4.0-pink.svg" </p>
+  
+```sh
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHPLUS/main/ssh-plus)
 ```
 
 📖  SERVICE AND PORT 
@@ -38,5 +40,6 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHP
 
 ✅ XRAY TROJAN TCP (443) NON-TLS (80/8080/8880)
 
+![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
 
 
