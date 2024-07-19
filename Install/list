@@ -9,7 +9,7 @@ IP2=$(wget -qO- http://whatismyip.akamai.com/)
 echo -e "$ipdovps" >/etc/IP
 lst=$1 && lst1=$2 && lst2=$3 && key1=$4 && key2=crz
 echo -e "Asia/Bangkok" >/etc/timezone
-ln -fs /usr/share/zoneinfo/Asia/Bangkok /etc/localtime >/dev/null 2>&1
+ln -fs /usr/share/zoneinfo/Asia/Bangkok/etc/localtime >/dev/null 2>&1
 dpkg-reconfigure --frontend noninteractive tzdata >/dev/null 2>&1
 [[ -z $lst1 ]] && {
 	rm -rf $_Ink/list >/dev/null 2>&1 && cat /dev/null >~/.bash_history && history -c && exit 0
