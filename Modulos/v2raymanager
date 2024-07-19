@@ -78,7 +78,7 @@ sed -i "44 s;$dm;$px;g" /etc/v2ray/config.json
     }
 
     protocolv2ray () {
-    echo -e "\E[44;1;37m            ALTERAR PROTOCOLO V2RAY             \E[0m"
+    echo -e "\E[44;1;37m            สร้าง PROTOCOLO V2RAY             \E[0m"
     echo -e "\033[1;37m• \033[1;33mEscolha a opção 24 e coloque o domínio do seu IP\033[1;31m"
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
     v2ray stream
@@ -95,7 +95,7 @@ sed -i "44 s;$dm;$px;g" /etc/v2ray/config.json
     fun_v2raymanager
     }
     portv () {
-    echo -e "\E[44;1;37m            ALTERAR PORTA V2RAY             \E[0m"
+    echo -e "\E[44;1;37m            สร้าง PORTA V2RAY             \E[0m"
     v2ray port
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
     echo -e "\033[1;37m• \033[1;33mEnter Para Continuar\033[1;31m" && read enter
