@@ -8,14 +8,13 @@
 ![](https://img.shields.io/badge/Debian-8-red)
 ![](https://img.shields.io/badge/Debian-9-red)
 ![](https://img.shields.io/badge/Debian-10-red)
+### MOD BY [SIAMLINK](https://https://github.com/nonthai-vpn/SSHPLUS "SIAMLINK")
 
 
 
+# SCRIPT AUTO VPS
 
-# MOD SSHPLUS
-# BY SIAMLINK
-
-📖  Installation
+📖 Installation
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHPLUS/main/ssh-plus)
 
@@ -39,14 +38,5 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/nonthai-vpn/SSHP
 
 ✅ XRAY TROJAN TCP (443) NON-TLS (80/8080/8880)
 
-📖  OPERATING SYSTEMS 
 
-Debian 12 & Ubuntu 23.04 LTS
-• Debian 12
-• Debian 11
-• Debian 10
-• Ubuntu 18.04 LTS
-• Ubuntu 20.04 LTS
-• Ubuntu 22.04 LTS
-• Ubuntu 23.04 LTS
 
