@@ -205,9 +205,9 @@ echo -e "\n\033[1;36mVERIFICANDO LINK... \033[0m" ; rm $_Ink/list > /dev/null 2>
     echo "clear" >>/root/.bashrc
     echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
     echo 'TIME=$(date +"%T")' >>/root/.bashrc
-    echo 'figlet -k SSH-PLUS | lolcat' >>/root/.bashrc
+    echo 'figlet -k SIAMLINK | lolcat' >>/root/.bashrc
     echo 'echo -e " เครื่อง VPS : $HOSTNAME"' >>/root/.bashrc
-    echo 'echo -e " วันที่ ติดตั้ง : $(uptime -p)"' >>/root/.bashrc
+    echo 'echo -e " ติดตั้งเมื่อ : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " วันที่ : $DATE"' >>/root/.bashrc
     echo 'echo -e " เวลา : $TIME"' >>/root/.bashrc
     echo 'echo -e "EDIT BY SIAMLINK"' >>.bashrc
