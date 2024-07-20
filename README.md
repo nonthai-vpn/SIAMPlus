@@ -22,10 +22,9 @@
 [![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h4>
 
-📖 Installation
-
 <p align="d"> <img src="https://img.shields.io/badge/Version-8.4.0-pink.svg" </p>
 
+📖 Installation
   ```
 sudo su
 ```
